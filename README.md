@@ -12,12 +12,13 @@ Untuk mencegah hal ini semakin parah, manajer departemen HR ingin meminta bantua
 
 ### Permasalahan Bisnis
 
-Tuliskan seluruh permasalahan bisnis yang akan diselesaikan.
+Tingginya tingkat attrition (>10%) di perusahaan Jaya Jaya Maju menimbulkan kekhawatiran pada manajer HR. Diperlukan analisis untuk mengidentifikasi faktor-faktor yang mempengaruhi keputusan karyawan untuk keluar dari perusahaan dan dashboard untuk monitoring.
 
 ### Cakupan Proyek
 
-Tuliskan cakupan proyek yang akan dikerjakan.
-
+Berdasarkan penjelasan tersebut, submission yang kamu kerjakan adalah proyek employee attrition analysis dengan dua tujuan utama:
+1. Mengidentifikasi faktor-faktor yang mempengaruhi attrition (karyawan keluar).
+2. Membangun business dashboard untuk monitoring faktor-faktor tersebut.
 ### Persiapan
 
 Sumber data: ....
