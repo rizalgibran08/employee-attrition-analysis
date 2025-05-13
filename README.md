@@ -12,7 +12,14 @@ Untuk mencegah hal ini semakin parah, manajer departemen HR ingin meminta bantua
 
 ### Permasalahan Bisnis
 
-Tingginya tingkat attrition (>10%) di perusahaan Jaya Jaya Maju menimbulkan kekhawatiran pada manajer HR. Diperlukan analisis untuk mengidentifikasi faktor-faktor yang mempengaruhi keputusan karyawan untuk keluar dari perusahaan dan dashboard untuk monitoring.
+Berikut beberapa permasalahan utama yang ingin diselesaikan dalam proyek ini:
+
+1. Mengetahui **kelompok usia dan jabatan** mana yang paling rentan mengalami attrition.
+2. Mengidentifikasi **departemen dengan tingkat attrition tertinggi**.
+3. Menganalisis pengaruh **gaji bulanan (monthly income)** terhadap keputusan karyawan untuk keluar atau tetap.
+4. Menganalisis pengaruh **lama bekerja (years at company)** terhadap attrition.
+5. Menggali apakah faktor seperti **gender, marital status, dan job level** turut memengaruhi attrition.
+6. Memberikan **insight visual interaktif** agar tim HR dapat melakukan analisis lebih dalam secara mandiri.
 
 ### Cakupan Proyek
 
@@ -35,13 +42,13 @@ Setup environment:
 Dashboard ini dibuat untuk membantu tim Human Resources (HR) dalam menganalisis faktor-faktor yang memengaruhi **tingginya angka attrition (resign)** karyawan di perusahaan. Visualisasi dibangun menggunakan **Tableau**, dengan menampilkan segmentasi attrition berdasarkan usia, jabatan, pendapatan bulanan, masa kerja, hingga departemen.
 
 Dashboard menyediakan fitur interaktif berupa filter berdasarkan:
+- Age
+- Department
 - Gender
-- Status pernikahan
-- Kelompok usia
-- Level jabatan
-- Departemen
-- Peran pekerjaan
-- Kepuasan kerja
+- Job Level
+- Job Role
+- Job Satisfaction
+- Marital Status
 
 Berikut adalah tautan akses ke dashboard online:
 **[👉 Lihat Dashboard Tableau](https://public.tableau.com/views/HRD_17470193340890/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
@@ -56,7 +63,16 @@ Jelaskan cara menjalankan protoype sistem machine learning yang telah dibuat. Se
 
 ## Conclusion
 
-Jelaskan konklusi dari proyek yang dikerjakan.
+Berdasarkan hasil visualisasi dan analisis data attrition:
+
+- Kelompok usia 26–34 tahun menunjukkan tingkat attrition yang paling tinggi.
+- Karyawan dengan pendapatan bulanan rendah (di bawah rata-rata) cenderung lebih banyak resign.
+- Masa kerja di bawah 5 tahun juga memiliki korelasi tinggi terhadap angka resign.
+- Departemen **Sales** memiliki proporsi attrition terbesar dibanding HR dan R&D.
+- Status pernikahan dan gender juga menunjukkan variasi dalam angka attrition, karyawan yang melakukan resign kerbanyakan masih berstatus single.
+
+Hal ini menunjukkan bahwa faktor keuangan, pengalaman kerja awal, dan dinamika per departemen menjadi penentu utama dalam tingginya tingkat turnover.
+
 
 ### Rekomendasi Action Items (Optional)
 
