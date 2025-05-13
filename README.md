@@ -19,6 +19,7 @@ Tingginya tingkat attrition (>10%) di perusahaan Jaya Jaya Maju menimbulkan kekh
 Berdasarkan penjelasan tersebut, submission yang kamu kerjakan adalah proyek employee attrition analysis dengan dua tujuan utama:
 1. Mengidentifikasi faktor-faktor yang mempengaruhi attrition (karyawan keluar).
 2. Membangun business dashboard untuk monitoring faktor-faktor tersebut.
+   
 ### Persiapan
 
 Sumber data: ....
@@ -31,7 +32,27 @@ Setup environment:
 
 ## Business Dashboard
 
-Jelaskan tentang business dashboard yang telah dibuat. Jika ada, sertakan juga link untuk mengakses dashboard tersebut.
+Dashboard ini dibuat untuk membantu tim Human Resources (HR) dalam menganalisis faktor-faktor yang memengaruhi **tingginya angka attrition (resign)** karyawan di perusahaan. Visualisasi dibangun menggunakan **Tableau**, dengan menampilkan segmentasi attrition berdasarkan usia, jabatan, pendapatan bulanan, masa kerja, hingga departemen.
+
+Dashboard menyediakan fitur interaktif berupa filter berdasarkan:
+- Gender
+- Status pernikahan
+- Kelompok usia
+- Level jabatan
+- Departemen
+- Peran pekerjaan
+- Kepuasan kerja
+
+Berikut adalah tautan akses ke dashboard online:
+**[👉 Lihat Dashboard Tableau](https://public.tableau.com/views/HRD_17470193340890/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+
+
+## Menjalankan Sistem Machine Learning
+Jelaskan cara menjalankan protoype sistem machine learning yang telah dibuat. Selain itu, sertakan juga link untuk mengakses prototype tersebut.
+
+```
+
+```
 
 ## Conclusion
 
@@ -39,7 +60,11 @@ Jelaskan konklusi dari proyek yang dikerjakan.
 
 ### Rekomendasi Action Items (Optional)
 
-Berikan beberapa rekomendasi action items yang harus dilakukan perusahaan guna menyelesaikan permasalahan atau mencapai target mereka.
+Untuk mengurangi tingkat attrition dan meningkatkan retensi karyawan, berikut beberapa rekomendasi strategi yang dapat dilakukan oleh tim HR:
 
-- action item 1
-- action item 2
+#### 🎯 Action Item 1: Review dan Revisi Struktur Gaji
+Lakukan evaluasi terhadap struktur gaji terutama pada posisi entry-level atau dengan masa kerja < 5 tahun. Pertimbangkan penyesuaian gaji berbasis performa dan kompetensi, terutama untuk departemen dengan attrition tinggi seperti Sales.
+
+#### 🎯 Action Item 2: Program Retensi dan Keterlibatan Karyawan
+Bangun program engagement untuk karyawan muda dan baru, seperti coaching, mentorship, pengembangan karir, dan keseimbangan kerja–hidup (work-life balance). Fokus pada kelompok usia 26–35 tahun dan jabatan level menengah ke bawah.
+
