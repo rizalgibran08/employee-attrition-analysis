@@ -1,6 +1,6 @@
 # Monitoring Attrition of Employee
 
-# 🔰 Proyek Akhir: Menyelesaikan Permasalahan Perusahaan Edutech
+# 🔰 Proyek : Menyelesaikan Permasalahan Perusahaan Edutech
 
 ## 🗂️ Business Understanding
 
