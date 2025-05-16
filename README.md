@@ -75,7 +75,7 @@ Berikut adalah tautan akses ke dashboard online:
 
 ## 🚀 Menjalankan Sistem Machine Learning
 Untuk menjalankan prototype sistem prediksi risiko karyawan keluar, ikuti langkah berikut:
-1. Clone repository (jika tersedia di GitHub) atau salin semua file proyek ke dalam satu direktori.
+1. Clone repository atau salin semua file proyek ke dalam satu direktori.
 2. Pastikan semua file model (.joblib) tersedia di folder model/.
 3. Jalankan aplikasi Streamlit dengan perintah:
 ```
