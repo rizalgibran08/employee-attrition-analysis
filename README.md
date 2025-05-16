@@ -89,7 +89,7 @@ http://localhost:8501
 
 Prototype juga dapat diakses secara online melalui Streamlit Cloud:
 
-[Link Streamlit]()
+[Link Streamlit](https://prediction-employee-attrition.streamlit.app/)
 
 ## ✅ Conclusion
 
