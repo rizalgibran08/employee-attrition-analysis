@@ -95,13 +95,19 @@ Prototype juga dapat diakses secara online melalui Streamlit Cloud:
 
 Berdasarkan hasil visualisasi dan analisis data attrition:
 
-- Kelompok usia 26–34 tahun menunjukkan tingkat attrition yang paling tinggi.
+- Departemen Research & Development menyumbang attrition tertinggi dengan jumlah 107 karyawan resign atau sebesar 59,78% dari keseluruhan.
+- Job role dengan resign tertinggi adalah Laboratory Technician sebanyak 49 resign, Sales Executive 39 resign dan Research Scientist 38 resign.
+- Resign paling banyak terjadi pada tingkat kepuasan kerja 1 dan 3.
+- Sebagian besar resign terjadi pada karyawan dengan WLB level 2 (94 orang).
+- Karyawan yang resign memiliki rata-rata gaji lebih rendah (4.873) dibanding yang bertahan (6.983).
+- Usia dengan attrition tertinggi adalah 28–30 tahun, dengan puncak di usia 28 sebanyak 22 karyawan resign.
 - Karyawan dengan pendapatan bulanan rendah (di bawah rata-rata) cenderung lebih banyak resign.
-- Masa kerja di bawah 5 tahun juga memiliki korelasi tinggi terhadap angka resign.
-- Departemen **Sales** memiliki proporsi attrition terbesar dibanding HR dan R&D.
-- Status pernikahan dan gender juga menunjukkan variasi dalam angka attrition, karyawan yang melakukan resign kerbanyakan masih berstatus single.
 
-Hal ini menunjukkan bahwa faktor keuangan, pengalaman kerja awal, dan dinamika per departemen menjadi penentu utama dalam tingginya tingkat turnover.
+Berdasarkan analisis data employee attrition yang ditampilkan pada dashboard HRD, dapat disimpulkan bahwa perusahaan tengah menghadapi tantangan serius terkait tingkat pengunduran diri karyawan, khususnya pada departemen Sales dan beberapa peran teknis seperti Laboratory Technician serta Research Scientist.
+
+Meskipun tingkat kepuasan kerja dan work-life balance menjadi indikator penting, namun faktor seperti usia muda, gaji yang lebih rendah, serta masa kerja yang relatif singkat juga tampak sangat berpengaruh dalam keputusan resign. Karyawan dengan usia 28–30 tahun terlihat paling rentan untuk meninggalkan perusahaan.
+
+Hal ini mengindikasikan bahwa selain faktor internal seperti kompensasi dan kondisi kerja, faktor eksternal seperti peluang karier atau dinamika pasar tenaga kerja juga turut memengaruhi keputusan tersebut.
 
 
 ### Rekomendasi Action Items
@@ -109,8 +115,11 @@ Hal ini menunjukkan bahwa faktor keuangan, pengalaman kerja awal, dan dinamika p
 Untuk mengurangi tingkat attrition dan meningkatkan retensi karyawan, berikut beberapa rekomendasi strategi yang dapat dilakukan oleh tim HR:
 
 #### 🎯 Action Item 1: Review dan Revisi Struktur Gaji
-Lakukan evaluasi terhadap struktur gaji terutama pada posisi entry-level atau dengan masa kerja < 5 tahun. Pertimbangkan penyesuaian gaji berbasis performa dan kompetensi, terutama untuk departemen dengan attrition tinggi seperti Sales.
+Tinjau kembali struktur kompensasi, terutama pada role dengan gaji di bawah rata-rata. Pertimbangkan sistem insentif berbasis performa yang adil untuk semua divisi.
 
-#### 🎯 Action Item 2: Program Retensi dan Keterlibatan Karyawan
-Bangun program engagement untuk karyawan muda dan baru, seperti coaching, mentorship, pengembangan karir, dan keseimbangan kerja–hidup (work-life balance). Fokus pada kelompok usia 26–35 tahun dan jabatan level menengah ke bawah.
+#### 🎯 Action Item 2: Program Retensi Karyawan
+Bangun program engagement untuk karyawan muda dan baru, seperti coaching, mentorship, pengembangan karir untuk karyawan berusia di bawah 30 tahun. Ciptakan jalur pengembangan profesional yang jelas (career path clarity).
+
+### 🎯 Action Item 3: Peningkatan Program Work-Life Balance
+Terapkan opsi kerja fleksibel atau hybrid (jika memungkinkan). Tambahkan program kesejahteraan seperti health & wellness benefits dan employee assistance program.
 
