@@ -103,9 +103,7 @@ Berdasarkan hasil visualisasi dan analisis data attrition:
 - Usia dengan attrition tertinggi adalah 28–30 tahun, dengan puncak di usia 28 sebanyak 22 karyawan resign.
 - Karyawan dengan pendapatan bulanan rendah (di bawah rata-rata) cenderung lebih banyak resign.
 
-Berdasarkan analisis data employee attrition yang ditampilkan pada dashboard HRD, dapat disimpulkan bahwa perusahaan tengah menghadapi tantangan serius terkait tingkat pengunduran diri karyawan, khususnya pada departemen Sales dan beberapa peran teknis seperti Laboratory Technician serta Research Scientist.
-
-Meskipun tingkat kepuasan kerja dan work-life balance menjadi indikator penting, namun faktor seperti usia muda, gaji yang lebih rendah, serta masa kerja yang relatif singkat juga tampak sangat berpengaruh dalam keputusan resign. Karyawan dengan usia 28–30 tahun terlihat paling rentan untuk meninggalkan perusahaan.
+Berdasarkan analisis data employee attrition yang ditampilkan pada dashboard HRD, dapat disimpulkan bahwa perusahaan tengah menghadapi tantangan serius terkait tingkat pengunduran diri karyawan, khususnya pada departemen Sales dan beberapa peran teknis seperti Laboratory Technician serta Research Scientist. Meskipun tingkat kepuasan kerja dan work-life balance menjadi indikator penting, namun faktor seperti usia muda, gaji yang lebih rendah, serta masa kerja yang relatif singkat juga tampak sangat berpengaruh dalam keputusan resign. Karyawan dengan usia 28–30 tahun terlihat paling rentan untuk meninggalkan perusahaan.
 
 Hal ini mengindikasikan bahwa selain faktor internal seperti kompensasi dan kondisi kerja, faktor eksternal seperti peluang karier atau dinamika pasar tenaga kerja juga turut memengaruhi keputusan tersebut.
 
@@ -120,6 +118,6 @@ Tinjau kembali struktur kompensasi, terutama pada role dengan gaji di bawah rata
 #### 🎯 Action Item 2: Program Retensi Karyawan
 Bangun program engagement untuk karyawan muda dan baru, seperti coaching, mentorship, pengembangan karir untuk karyawan berusia di bawah 30 tahun. Ciptakan jalur pengembangan profesional yang jelas (career path clarity).
 
-### 🎯 Action Item 3: Peningkatan Program Work-Life Balance
+#### 🎯 Action Item 3: Peningkatan Program Work-Life Balance
 Terapkan opsi kerja fleksibel atau hybrid (jika memungkinkan). Tambahkan program kesejahteraan seperti health & wellness benefits dan employee assistance program.
 
