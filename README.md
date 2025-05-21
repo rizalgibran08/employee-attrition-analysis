@@ -36,7 +36,18 @@ Dataset yang digunakan adalah:
 
 Dataset ini berisi data historis tentang karyawan seperti usia, jenis kelamin, pendidikan, jabatan, tingkat kepuasan kerja, hingga apakah karyawan tersebut akhirnya keluar dari perusahaan.
 
-Setup environment:
+Setup Environment - Anaconda
+```
+conda create --name myenv python=3.10
+conda activate myenv
+pip install -r requirements.txt
+```
+Setup Environment - Shell/Terminal
+```
+pipenv install
+pipenv shell
+pip install -r requirements.txt
+```
 
 Untuk menjalankan proyek ini secara lokal, diperlukan environment Python dengan dependensi berikut:
 
