@@ -34,7 +34,7 @@ Dataset yang digunakan adalah:
 
 [Employee Attrition & Performance](https://github.com/dicodingacademy/dicoding_dataset/blob/main/employee/employee_data.csv) atau dapat diakses di [Link Sumber Dataset](https://www.ibm.com/communities/analytics/watson-analytics-blog/watson-analytics-use-case-for-hr-retaining-valuable-employees/)
 
-Dataset ini adalah kumpulan data fiksi yang dibuat oleh para ilmuwan data IBM. Berisi rincian demografi, metrik terkait pekerjaan, faktor-faktor yang menyebabkan pengurangan karyawan dan tanda-tanda pengurangan karyawan. Variabel data ini seperti usia, jenis kelamin, pendidikan, jabatan, tingkat kepuasan kerja, peran pekerjaan, pendapatan per bulan, jarak dari kantor ke rumah, work life balance hingga apakah karyawan tersebut akhirnya keluar dari perusahaan.
+Dataset ini adalah kumpulan data fiksi yang dibuat oleh para ilmuwan data IBM. Berisi rincian demografi, metrik terkait pekerjaan, faktor-faktor yang menyebabkan pengurangan karyawan dan tanda-tanda pengurangan karyawan. Variabel yang terdapat pada data ini seperti: usia, jenis kelamin, pendidikan, jabatan, tingkat kepuasan kerja, peran pekerjaan, pendapatan per bulan, jarak dari kantor ke rumah, work life balance hingga apakah karyawan tersebut akhirnya keluar dari perusahaan.
 
 
 Setup Environment - Anaconda
