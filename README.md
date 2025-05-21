@@ -44,13 +44,12 @@ pip install -r requirements.txt
 ```
 Setup Environment - Shell/Terminal
 ```
+pip install pipenv
 pipenv install
 pipenv shell
 pip install -r requirements.txt
 ```
-
 Untuk menjalankan proyek ini secara lokal, diperlukan environment Python dengan dependensi berikut:
-
 ```
 pip install pandas numpy scikit-learn xgboost streamlit joblib
 ```
@@ -91,6 +90,8 @@ Untuk menjalankan prototype sistem prediksi risiko karyawan keluar, ikuti langka
 3. Jalankan aplikasi Streamlit dengan perintah:
 ```
 streamlit run app.py
+or
+python -m streamlit run app.py
 ```
 4. Akses aplikasi melalui browser di:
 ```
