@@ -84,7 +84,7 @@ Berikut adalah tautan akses ke dashboard online:
 
 **[👉 Dashboard Tableau](https://public.tableau.com/views/HRD_17470193340890/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
-**[👉 Dashboard Excel](https://1drv.ms/x/c/4e45fb364fb39f66/EY04y1-nUJ5Kv3--sDNhgCgBcRmxo-XTZ_dLDICGB2oIVw?e=fClJVu)**
+**[👉 Dashboard Excel](https://1drv.ms/x/c/4e45fb364fb39f66/EfcuJiow3HJGh7PtqD3OcKIBIks5mfMgr_IfpYvM-sbXlg?e=Zth2qD)**
 
 
 ## 🚀 Menjalankan Sistem Machine Learning
